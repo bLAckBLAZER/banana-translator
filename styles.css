@@ -1,0 +1,16 @@
+textarea {
+    width: 50%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#output-box {
+    width: 50%;
+    height: 10vh;
+    display: block;
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 1rem;
+}
